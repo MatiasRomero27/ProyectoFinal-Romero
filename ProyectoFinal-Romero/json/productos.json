@@ -1,0 +1,167 @@
+[{
+        "id": 1,
+        "tipo": "Camiseta",
+        "nombre": "Camiseta oficial titular de Argentina Qatar 2022",
+        "precio": 10000,
+        "foto": "../media/products/argentina-titular.webp"
+    }, {
+        "id": 2,
+        "tipo": "Camiseta",
+        "nombre": "Camiseta oficial suplente de Argentina Qatar 2022",
+        "precio": 12000,
+        "foto": "../media/products/argentina-suplente.webp"
+    }, {
+        "id": 3,
+        "tipo": "Camiseta",
+        "nombre": "Camiseta oficial titular de Brasil Qatar 2022",
+        "precio": 11000,
+        "foto": "../media/products/brasil-titular.webp"
+    }, {
+        "id": 4,
+        "tipo": "Camiseta",
+        "nombre": "Camiseta oficial suplente de Brasil Qatar 2022",
+        "precio": 9050,
+        "foto": "../media/products/brasil-suplente.webp"
+    }, {
+        "id": 5,
+        "tipo": "Camiseta",
+        "nombre":"Camiseta oficial titular de Alemania Qatar 2022",
+        "precio": 8900,
+        "foto": "../media/products/alemania-titular.webp"
+    }, {
+        "id": 6,
+        "tipo": "Camiseta",
+        "nombre": "Camiseta oficial titular de España Qatar 2022",
+        "precio": 8000,
+        "foto": "../media/products/espana-titular.webp"
+    }, {
+        "id": 7,
+        "tipo": "Camiseta",
+        "nombre": "Camiseta oficial titular de Francia Qatar 2022",
+        "precio": 8800,
+        "foto": "../media/products/francia-titular.webp"
+    }, {
+        "id": 8,
+        "tipo": "Camiseta",
+        "nombre": "Camiseta oficial suplente de Francia Qatar 2022",
+        "precio": 8370,
+        "foto": "../media/products/francia-suplente.webp"
+    },
+    {
+        "id": 9,
+        "tipo": "Camiseta",
+        "nombre": "Camiseta oficial titular de Inglaterra Qatar 2022",
+        "precio": 11000,
+        "foto": "../media/products/inglaterra-titular.webp"
+    },
+    {
+        "id": 10,
+        "tipo": "Camiseta",
+        "nombre": "Camiseta oficial suplente de Japon Qatar 2022",
+        "precio": 8000,
+        "foto": "../media/products/japon-suplente.webp"
+    }, {
+        "id": 11,
+        "tipo": "Camiseta",
+        "nombre": "Camiseta oficial titular de Portugal Qatar 2022",
+        "precio": 9000,
+        "foto": "../media/products/portugal-titular.webp"
+    }, {
+        "id": 12,
+        "tipo": "Camiseta",
+        "nombre": "Camiseta oficial suplente de Portugal Qatar 2022",
+        "precio": 5999,
+        "foto": "../media/products/portugal-suplente.webp"
+    }, {
+        "id": 13,
+        "tipo": "Camiseta",
+        "nombre": "Camiseta oficial titular de Mexico Qatar 2022",
+        "precio": 6000,
+        "foto": "../media/products/mexico-titular.webp"
+    }, {
+        "id": 14,
+        "tipo": "Camiseta",
+        "nombre": "Camiseta oficial titular de Uruguay Qatar 2022",
+        "precio": 8000,
+        "foto": "../media/products/uruguay-titular.webp"
+    }, {
+        "id": 15,
+        "tipo": "Camiseta",
+        "nombre": "Camiseta oficial titular de Corea del Sur Qatar 2022",
+        "precio": 8850,
+        "foto": "../media/products/coreadelsur-titular.webp"
+    }, {
+        "id": 16,
+        "tipo": "Camiseta",
+        "nombre": "Camiseta oficial titular de Paises Bajos Qatar 2022",
+        "precio": 8670,
+        "foto": "../media/products/paisesbajos-titular.webp"
+    }, {
+        "id": 17,
+        "tipo": "Camiseta",
+        "nombre": "Camiseta oficial suplente de USA Qatar 2022",
+        "precio": 8067,
+        "foto": "../media/products/usa-suplente.webp"
+    }, {
+        "id": 18,
+        "tipo": "Camiseta",
+        "nombre": "Camiseta oficial titular de Belgica Qatar 2022",
+        "precio": 7869,
+        "foto": "../media/products/belgica-titular.webp"
+    }, {
+        "id": 19,
+        "tipo": "Camiseta",
+        "nombre": "Camiseta oficial titular de Ecuador Qatar 2022",
+        "precio": 7000,
+        "foto": "../media/products/ecuador-titular.webp"
+    }, {
+        "id": 20,
+        "tipo": "Camiseta",
+        "nombre": "Camiseta oficial titular de Costa Rica Qatar 2022",
+        "precio": 7800,
+        "foto": "../media/products/costarica-titular.webp"
+    }, {
+        "id": 21,
+        "tipo": "Camiseta",
+        "nombre": "Camiseta oficial suplente de Gales Qatar 2022",
+        "precio": 7888,
+        "foto": "../media/products/gales-suplente.webp"
+    }, {
+        "id": 22,
+        "tipo": "Camiseta",
+        "nombre": "Camiseta oficial titular de Marruecos Qatar 2022",
+        "precio": 9000,
+        "foto": "../media/products/marruecos-titular.webp"
+    }, {
+        "id": 23,
+        "tipo": "Camiseta",
+        "nombre": "Camiseta oficial titular de Dinamarca Qatar 2022",
+        "precio": 9800,
+        "foto": "../media/products/dinamarca-titular.webp"
+    }, {
+        "id": 24,
+        "tipo": "Camiseta",
+        "nombre": "Camiseta oficial titular de Croacia Qatar 2022",
+        "precio": 7050,
+        "foto": "../media/products/croacia-titular.webp"
+    }, {
+        "id": 25,
+        "tipo": "Camiseta",
+        "nombre": "Camiseta oficial suplente España de  Qatar 2022",
+        "precio": 7777,
+        "foto": "../media/products/espana-suplente.webp"
+    }, {
+        "id": 26,
+        "tipo": "Camiseta",
+        "nombre": "Camiseta oficial titular de Ghana Qatar 2022",
+        "precio": 8888,
+        "foto": "../media/products/ghana-titular.webp"
+    }, {
+        "id": 27,
+        "tipo": "Camiseta",
+        "nombre": "Camiseta oficial titular de Canadá Qatar 2022",
+        "precio": 9999,
+        "foto": "../media/products/canada-titular.webp"
+    }
+        
+]
